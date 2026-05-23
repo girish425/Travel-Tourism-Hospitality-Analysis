@@ -21,9 +21,13 @@ v) Feature engineering
 
 ### ✅ Week 1 Tasks Completed
 🔹 1. Data Loading & Exploration
+
 -Imported dataset using Pandas
+
 -Explored dataset structure (shape, info, head)
+
 -Identified data types and key variables
+
 -Checked and removed duplicate records
 
 🔹 2. Data Cleaning
