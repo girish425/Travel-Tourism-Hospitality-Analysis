@@ -31,11 +31,11 @@ v) Feature engineering
 -Checked and removed duplicate records
 
 🔹 2. Data Cleaning
-Removed duplicate rows
+-Removed duplicate rows
 
-Standardized dataset format
+-Standardized dataset format
 
-Verified column consistency
+-Verified column consistency
 
 🔹 3. Missing Value Handling
 Dropped company column (high missing values)
