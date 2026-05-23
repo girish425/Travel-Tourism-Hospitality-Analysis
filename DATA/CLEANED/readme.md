@@ -13,8 +13,11 @@
 ## PERSON-2
 
 ✅ Missing values handled
+
 ✅ Outliers removed
+
 ✅ ADR cleaned
+
 ✅ Step2 dataset saved
 
 ## PERSON-3
