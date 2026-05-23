@@ -22,3 +22,9 @@
 
 ## PERSON-3
 
+✅ New features created
+
+✅ Final cleaned dataset prepared
+✅ Documentation added
+✅ README updated
+
