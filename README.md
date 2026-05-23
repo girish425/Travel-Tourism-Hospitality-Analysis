@@ -18,3 +18,45 @@ iii) Missing value handling
 iv) Outlier treatment
 
 v) Feature engineering
+
+### ✅ Week 1 Tasks Completed
+🔹 1. Data Loading & Exploration
+-Imported dataset using Pandas
+-Explored dataset structure (shape, info, head)
+-Identified data types and key variables
+-Checked and removed duplicate records
+
+🔹 2. Data Cleaning
+Removed duplicate rows
+
+Standardized dataset format
+
+Verified column consistency
+
+🔹 3. Missing Value Handling
+Dropped company column (high missing values)
+
+Filled agent column with median values
+
+Filled country column with mode values
+
+🔹 4. Outlier Treatment
+Analyzed ADR (Average Daily Rate) distribution
+
+Removed extreme outliers (ADR > 500)
+
+Improved data quality for analysis
+
+🔹 5. Feature Engineering
+Created new useful features:
+
+total_stay → total nights stayed
+
+total_guests → total number of guests
+
+booking_type → Early vs Last-minute booking
+
+season → Categorized months into seasons
+
+🔹 6. Final Dataset
+Cleaned and processed dataset saved as:
