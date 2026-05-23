@@ -13,8 +13,8 @@ i) Data loading and exploration
 
 ii) Data cleaning
 
-Missing value handling
+iii) Missing value handling
 
-Outlier treatment
+iv) Outlier treatment
 
 Feature engineering
