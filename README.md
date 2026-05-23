@@ -31,6 +31,7 @@ v) Feature engineering
 -Checked and removed duplicate records
 
 🔹 2. Data Cleaning
+
 -Removed duplicate rows
 
 -Standardized dataset format
@@ -38,6 +39,7 @@ v) Feature engineering
 -Verified column consistency
 
 🔹 3. Missing Value Handling
+
 -Dropped company column (high missing values)
 
 -Filled agent column with median values
@@ -45,6 +47,7 @@ v) Feature engineering
 -Filled country column with mode values
 
 🔹 4. Outlier Treatment
+
 -Analyzed ADR (Average Daily Rate) distribution
 
 -Removed extreme outliers (ADR > 500)
@@ -52,6 +55,7 @@ v) Feature engineering
 -Improved data quality for analysis
 
 🔹 5. Feature Engineering
+
 -Created new useful features:
 
 -total_stay → total nights stayed
@@ -63,4 +67,5 @@ v) Feature engineering
 season → Categorized months into seasons
 
 🔹 6. Final Dataset
+
 -Cleaned and processed dataset saved as: final hotel booking in form csv file
