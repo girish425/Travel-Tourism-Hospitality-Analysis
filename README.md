@@ -5,3 +5,16 @@ Customer Retention and Dynamic Pricing Analysis using Python and Power BI
 This project focuses on analyzing hotel booking data to understand customer behavior, reduce cancellation rates, and support dynamic pricing strategies.
 
 Using data analytics and feature engineering, we aim to build a strong foundation for predictive modeling and business decision-making in the hospitality industry.
+
+### 🎯 Week 1 Objective
+-The goal of Week 1 was to prepare a clean and structured dataset for further analysis by performing:
+
+i) Data loading and exploration
+
+ii) Data cleaning
+
+Missing value handling
+
+Outlier treatment
+
+Feature engineering
