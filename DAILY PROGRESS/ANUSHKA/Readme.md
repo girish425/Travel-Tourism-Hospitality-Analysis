@@ -21,3 +21,15 @@ A seasonal feature was created using the arrival month. Each booking was classif
 ## 🔍 Dataset Verification
 
 After creating all new features, the dataset was reviewed to ensure correctness, consistency, and proper data types. This step confirmed that the dataset was ready for analysis and machine learning tasks.
+
+## 💾 Final Output
+
+The enhanced dataset containing all newly engineered features was saved as the final cleaned dataset and shared with the team for further exploratory data analysis and modeling.
+
+## 📝 Documentation Work
+
+In addition to feature engineering, I:
+
+* Added clear markdown explanations in the notebook
+* Documented feature definitions and purpose
+* Updated the project README to reflect my contributions
