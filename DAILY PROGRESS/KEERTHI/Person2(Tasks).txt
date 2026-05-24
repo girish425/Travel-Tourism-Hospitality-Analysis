@@ -2,8 +2,8 @@ Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricin
 My role in the project is mainly Data Cleaning.
 preparing the dataset before Machine Learning and Dashboard creation.
 
-#Tasks Need to Perform
-------------------------------
+#Tasks Need to Perform for WEEK-1
+---------------------------------
 1. Load Dataset
 
 2. Check Missing Values
