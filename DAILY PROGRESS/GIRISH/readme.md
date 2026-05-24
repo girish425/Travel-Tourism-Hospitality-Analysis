@@ -30,19 +30,24 @@ Data Acquisition, Initial Cleaning & EDA Support
 
 ## Week 2 Tasks Completed
 
--Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
+
   -Performed basic univariate analysis 
+  
   -Explored booking trends and distributions
-Analyzed cancellation patterns
-Studied lead time and booking behavior
-Data Visualization
+  
+  -Analyzed cancellation patterns
+  
+  -Studied lead time and booking behavior
+  
+### Data Visualization
 
-Created visualizations using:
+-Created visualizations using:
 
-Matplotlib
-Seaborn
+   -Matplotlib
+   -Seaborn
 
-Visuals included:
+### Visuals included:
 
 Histograms
 Countplots
