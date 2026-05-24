@@ -1,6 +1,7 @@
 #Weeky Progress
 ---------------
 #Week-1
+
 Day-1: Initialized project structure and added hotel booking dataset
 
 Day-2:Loaded cleaned_step1 dataset using pandas
