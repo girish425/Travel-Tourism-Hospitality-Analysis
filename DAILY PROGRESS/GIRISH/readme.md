@@ -20,16 +20,8 @@ Data Acquisition, Initial Cleaning & EDA Support
 - Checked dataset dimensions and structure
 - Verified data types of all columns
 
----
 
 ## Data Cleaning
 - Identified duplicate records
 - Removed duplicate rows from dataset
 - Verified cleaned dataset integrity
-
----
-
-## File Management
-- Saved cleaned dataset as:
-  ```plaintext
-  cleaned_step1.csv
