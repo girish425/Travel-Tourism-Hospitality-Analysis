@@ -71,15 +71,15 @@ season → Categorized months into seasons
 -Cleaned and processed dataset saved as: final hotel booking in form csv file
 
 
-## Week 2 Status
-✅ Week 2 Tasks Completed
 
----
+## ✅ Week 2 Tasks Completed
+
+
 
 ## Objectives of Week 2
 The primary goal of Week 2 was to perform Exploratory Data Analysis (EDA) and identify patterns in hotel booking behavior, customer cancellations, and booking trends.
 
----
+
 
 ## Tasks Completed in Week 2
 
@@ -99,7 +99,7 @@ Generated visualizations using:
 - Matplotlib
 - Seaborn
 
-Visualizations created:
+## Visualizations created:
 - Histograms
 - Countplots
 - Boxplots
