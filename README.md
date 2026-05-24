@@ -6,7 +6,7 @@ This project focuses on analyzing hotel booking data to understand customer beha
 
 Using data analytics and feature engineering, we aim to build a strong foundation for predictive modeling and business decision-making in the hospitality industry.
 
-### 🎯 Week 1 Objective
+## 🎯 Week 1 Objective
 -The goal of Week 1 was to prepare a clean and structured dataset for further analysis by performing:
 
 i) Data loading and exploration
@@ -19,7 +19,7 @@ iv) Outlier treatment
 
 v) Feature engineering
 
-### ✅ Week 1 Tasks Completed
+## ✅ Week 1 Tasks Completed
 🔹 1. Data Loading & Exploration
 
 -Imported dataset using Pandas
