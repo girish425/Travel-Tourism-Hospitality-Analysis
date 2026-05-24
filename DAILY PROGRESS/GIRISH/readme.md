@@ -66,10 +66,17 @@ Observed seasonal booking trends
 Analyzed customer booking patterns
 
 ### Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 GitHub
