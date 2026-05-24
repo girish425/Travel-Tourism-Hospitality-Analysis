@@ -69,3 +69,45 @@ season → Categorized months into seasons
 🔹 6. Final Dataset
 
 -Cleaned and processed dataset saved as: final hotel booking in form csv file
+
+
+## Week 2 Status
+✅ Week 2 Tasks Completed
+
+---
+
+## Objectives of Week 2
+The primary goal of Week 2 was to perform Exploratory Data Analysis (EDA) and identify patterns in hotel booking behavior, customer cancellations, and booking trends.
+
+---
+
+## Tasks Completed in Week 2
+
+### Data Exploration
+- Loaded cleaned booking dataset
+- Verified dataset structure and consistency
+- Performed descriptive statistical analysis
+
+### Exploratory Data Analysis (EDA)
+- Conducted univariate and bivariate analysis
+- Analyzed booking distributions
+- Examined cancellation patterns
+- Studied booking lead time trends
+
+### Data Visualization
+Generated visualizations using:
+- Matplotlib
+- Seaborn
+
+Visualizations created:
+- Histograms
+- Countplots
+- Boxplots
+- Correlation Heatmaps
+- Booking trend analysis charts
+
+### Statistical Insights
+- Identified important variables influencing booking cancellations
+- Observed customer booking behavior trends
+- Explored seasonal booking patterns
+- Analyzed relationships between booking features
