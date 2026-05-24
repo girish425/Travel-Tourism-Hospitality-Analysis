@@ -50,14 +50,22 @@ Data Acquisition, Initial Cleaning & EDA Support
 ### Visuals included:
 
 Histograms
+
 Countplots
+
 Boxplots
+
 Correlation heatmaps
+
 Statistical Observations
+
 Identified important variables affecting cancellations
+
 Observed seasonal booking trends
+
 Analyzed customer booking patterns
-Technologies Used
+
+### Technologies Used
 Python
 Pandas
 NumPy
