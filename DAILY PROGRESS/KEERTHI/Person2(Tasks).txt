@@ -1,0 +1,19 @@
+Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis
+My role in the project is mainly Data Cleaning.
+preparing the dataset before Machine Learning and Dashboard creation.
+
+#Tasks Need to Perform
+------------------------------
+1. Load Dataset
+
+2. Check Missing Values
+
+3. Handle Missing Values (main task of Person 2)
+
+4. Check Outliers in ADR
+
+5. Remove Extreme ADR Outliers
+
+6. Verify Cleaning
+
+7. Save Cleaned Dataset
