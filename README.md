@@ -99,7 +99,7 @@ Generated visualizations using:
 - Matplotlib
 - Seaborn
 
-## Visualizations created:
+#3# Visualizations created:
 - Histograms
 - Countplots
 - Boxplots
