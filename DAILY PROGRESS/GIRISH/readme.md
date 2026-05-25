@@ -218,7 +218,7 @@ The following technologies and tools were utilized throughout the project:
 
 -Seaborn
 
-Jupyter Notebook
+-Jupyter Notebook
 
 GitHub
 
