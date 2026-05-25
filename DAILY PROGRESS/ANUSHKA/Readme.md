@@ -38,3 +38,161 @@ In addition to feature engineering, I:
 
 # WEEK - 2
 # EDA SECTION 3: Seasonality & Trends (WEEK-2)
+
+After completing the feature engineering phase, the next step of this project focused on Exploratory Data Analysis (EDA). The main goal of this stage was to identify booking patterns, seasonal behavior, customer trends, and business insights from the hotel booking dataset through visual analysis.
+
+The EDA process helped transform raw data into meaningful observations that can support better decision-making in areas such as pricing strategy, cancellation management, and demand forecasting.
+
+---
+
+# Objectives of the EDA
+
+The analysis was mainly focused on:
+
+* Understanding seasonal booking trends
+* Identifying months with high and low demand
+* Studying cancellation behavior over time
+* Analyzing pricing trends using ADR (Average Daily Rate)
+* Understanding customer booking behavior through lead time analysis
+
+The visualizations were designed to make the patterns easy to interpret and business-oriented.
+
+---
+
+# Visualization & Insights
+
+## 1. Monthly Booking Volume Trend
+
+A line chart was created to analyze how hotel bookings change across different months of the year.
+
+### Purpose
+
+This visualization helps identify:
+
+* Peak travel seasons
+* Months with lower booking activity
+* Overall seasonal demand patterns
+
+### Insights
+
+* Certain months showed significantly higher booking volumes, indicating peak tourism periods.
+* Off-season months had comparatively fewer bookings.
+* The trend clearly demonstrated that hotel demand is highly seasonal.
+
+This analysis can help businesses:
+
+* Prepare staffing requirements
+* Plan marketing campaigns
+* Optimize room availability during peak periods
+
+---
+
+## 2. Monthly Cancellation Rate Trend
+
+A separate trend analysis was performed to study cancellation behavior across months.
+
+### Purpose
+
+The goal was to understand:
+
+* Whether cancellations increase during specific seasons
+* Which months are more risky for revenue loss
+* How customer behavior changes over time
+
+### Insights
+
+* Some months showed noticeably higher cancellation rates.
+* High-demand periods also experienced fluctuations in cancellation behavior.
+* The visualization highlighted months where booking reliability is lower.
+
+This analysis is useful for:
+
+* Improving cancellation policies
+* Forecasting expected occupancy more accurately
+* Reducing revenue leakage
+
+---
+
+## 3. ADR (Average Daily Rate) Seasonality Analysis
+
+A seasonal pricing analysis was performed using ADR (Average Daily Rate).
+
+### Purpose
+
+This chart was used to observe:
+
+* How hotel pricing changes throughout the year
+* Whether room prices increase during high-demand months
+* The relationship between demand and pricing strategy
+
+### Insights
+
+* ADR values increased during peak booking periods.
+* Lower-demand months generally had reduced pricing.
+* The trend reflected dynamic pricing behavior commonly used in the hospitality industry.
+
+This analysis helps in:
+
+* Revenue management
+* Pricing optimization
+* Understanding seasonal pricing strategies
+
+---
+
+## 4. Booking Curve – Lead Time Density Analysis
+
+A density-based visualization was used to analyze booking lead time distribution.
+
+### Purpose
+
+The objective was to understand:
+
+* How early customers make bookings
+* Whether most bookings are last-minute or planned in advance
+* Customer reservation behavior patterns
+
+### Insights
+
+* The distribution showed the concentration of bookings around specific lead-time ranges.
+* Some customers tend to book far in advance, while others make bookings closer to arrival dates.
+* The curve helped identify the most common booking window.
+
+This analysis can support:
+
+* Demand forecasting
+* Promotional timing strategies
+* Better inventory planning
+
+---
+
+# Overall EDA Outcome
+
+The exploratory analysis successfully uncovered important business patterns related to:
+
+* Seasonality
+* Customer behavior
+* Pricing trends
+* Cancellation risk
+* Booking timing
+
+The charts provided a clearer understanding of how hotel demand changes throughout the year and how customer actions impact hotel operations.
+
+These insights can be further used for:
+
+* Predictive modeling
+* Revenue optimization
+* Customer behavior analysis
+* Strategic business planning
+
+---
+
+# Tools & Libraries Used
+
+The visual analysis was performed using:
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+
+These libraries helped create clean and interpretable visualizations for better analytical understanding.
