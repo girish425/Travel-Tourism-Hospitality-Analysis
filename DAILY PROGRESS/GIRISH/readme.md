@@ -208,15 +208,15 @@ The analysis successfully highlighted critical business trends and customer beha
 
 The following technologies and tools were utilized throughout the project:
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Matplotlib
+-Matplotlib
 
-Seaborn
+-Seaborn
 
 Jupyter Notebook
 
