@@ -52,6 +52,8 @@ Data Acquisition, Initial Cleaning & EDA Support
 
 Histograms
 
+histogram is used to know the shape of the distributions and useful in identifying outliers in data
+
 Countplots
 
 Boxplots
