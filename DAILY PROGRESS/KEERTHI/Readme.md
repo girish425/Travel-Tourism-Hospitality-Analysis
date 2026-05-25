@@ -37,5 +37,5 @@ Day-3:Performed missing value analysis on booking dataset
 
 Day-4:Dropped company column due to excessive missing values
 
-Day-5:
+Day-5:Handled missing values in agent and country columns
 
