@@ -1,3 +1,4 @@
+# WEEK - 1
 # Person 3 — Feature Engineering & Documentation (WEEK - 1)
 
 ## 📄 Description of Work
@@ -33,5 +34,7 @@ In addition to feature engineering, I:
 * Added clear markdown explanations in the notebook
 * Documented feature definitions and purpose
 * Updated the project README to reflect my contributions
+  
 
-## EDA SECTION 3: Seasonality & Trends (WEEK-2)
+# WEEK - 2
+# EDA SECTION 3: Seasonality & Trends (WEEK-2)
