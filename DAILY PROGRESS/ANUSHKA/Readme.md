@@ -45,7 +45,7 @@ The EDA process helped transform raw data into meaningful observations that can 
 
 ---
 
-# Objectives of the EDA
+# 📄 Objectives of the EDA
 
 The analysis was mainly focused on:
 
@@ -165,7 +165,7 @@ This analysis can support:
 
 ---
 
-# Overall EDA Outcome
+# 📂 Overall EDA Outcome
 
 The exploratory analysis successfully uncovered important business patterns related to:
 
@@ -186,7 +186,7 @@ These insights can be further used for:
 
 ---
 
-# Tools & Libraries Used
+# ⚙️ Tools & Libraries Used
 
 The visual analysis was performed using:
 
