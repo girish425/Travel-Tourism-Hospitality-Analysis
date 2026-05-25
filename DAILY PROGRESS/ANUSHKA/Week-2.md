@@ -198,9 +198,8 @@ plt.xlabel("Lead Time")
 plt.ylabel("Density")
 
 plt.show()
-```
 
----
+
 
 # Day 6 – Summary of EDA Findings
 
