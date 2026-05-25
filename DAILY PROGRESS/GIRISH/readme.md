@@ -14,3 +14,7 @@ The primary focus of these tasks was on:
 - Conducting Exploratory Data Analysis (EDA)
 - Creating meaningful visualizations
 - Identifying important business insights from the dataset
+
+  The work completed during these weeks established a strong foundation for further analysis, dashboard development, and predictive modeling.
+
+---
