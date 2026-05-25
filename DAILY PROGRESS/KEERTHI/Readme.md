@@ -39,3 +39,5 @@ Day-4:Dropped company column due to excessive missing values
 
 Day-5:Handled missing values in agent and country columns
 
+Day-6:Performed ADR outlier detection and removed extreme values
+
