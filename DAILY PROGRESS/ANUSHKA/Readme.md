@@ -59,7 +59,7 @@ The visualizations were designed to make the patterns easy to interpret and busi
 
 ---
 
-# Visualization & Insights
+# 🔍 Visualization & Insights
 
 ## 1. Monthly Booking Volume Trend
 
