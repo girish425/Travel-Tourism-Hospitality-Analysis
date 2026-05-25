@@ -70,3 +70,136 @@ The dataset was imported and carefully examined to understand its structure, qua
 Successfully understood the structure and characteristics of the dataset, which helped in planning the data cleaning and analysis process.
 
 ---
+
+## 3. Data Cleaning
+
+Data cleaning was performed to improve dataset quality and ensure accurate analysis results.
+
+### Tasks Performed
+- Identified duplicate records in the dataset
+- Removed duplicate rows to prevent biased analysis
+- Verified dataset integrity after cleaning
+- Checked for inconsistencies in column values
+- Handled formatting issues and ensured data consistency
+- Validated cleaned dataset dimensions
+- Ensured the dataset was ready for Exploratory Data Analysis (EDA)
+
+### Outcome
+The dataset was successfully cleaned and prepared for further statistical analysis and visualization.
+
+---
+
+# Week 2 Tasks Completed
+
+## 1. Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was conducted to discover patterns, trends, and relationships within the dataset.
+
+### Tasks Performed
+
+### Univariate Analysis
+Performed detailed analysis on individual variables to understand:
+- Distribution of bookings
+- Frequency of customer types
+- Cancellation counts
+- Seasonal trends
+- Booking lead time distributions
+
+### Booking Trend Analysis
+- Explored booking trends across different months and seasons
+- Identified peak booking periods
+- Analyzed customer reservation behavior over time
+
+### Cancellation Analysis
+- Examined cancellation frequencies and patterns
+- Identified factors contributing to booking cancellations
+- Compared canceled and non-canceled bookings
+
+### Lead Time Analysis
+- Studied the relationship between lead time and cancellations
+- Analyzed customer booking behavior based on reservation timing
+- Observed how advance bookings impacted cancellation probability
+
+### Customer Behavior Analysis
+- Investigated customer stay preferences
+- Analyzed repeat customer behavior
+- Studied booking channel distributions and customer segments
+
+### Outcome
+EDA helped uncover meaningful insights, hidden patterns, and important variables influencing hotel booking behavior and cancellations.
+
+---
+
+# 2. Data Visualization
+
+Several visualizations were created to better understand the dataset and present insights effectively.
+
+## Visualization Tools Used
+- Matplotlib
+- Seaborn
+
+---
+
+## Visualizations Created
+
+### Histograms
+Histograms were used to:
+- Understand the distribution and shape of numerical data
+- Identify skewness in variables
+- Detect potential outliers
+- Analyze frequency distribution patterns
+
+### Countplots
+Countplots were created to:
+- Compare categorical variable frequencies
+- Analyze customer categories
+- Observe booking distributions
+- Visualize cancellation counts
+
+### Boxplots
+Boxplots were used to:
+- Identify outliers
+- Compare data spread
+- Analyze distribution variations
+- Understand booking behavior differences
+
+### Correlation Heatmaps
+Correlation heatmaps helped:
+- Identify relationships between numerical variables
+- Detect highly correlated features
+- Understand dependencies among variables
+- Support future predictive modeling tasks
+
+### Outcome
+The visualizations provided clear and meaningful insights into customer behavior, booking trends, and cancellation patterns.
+
+---
+
+# Statistical Observations & Insights
+
+Several important observations were identified during the analysis process.
+
+## Key Findings
+
+### Booking Cancellations
+- Certain variables showed strong influence on booking cancellations
+- Higher lead times were associated with increased cancellation probability
+- Some customer segments displayed higher cancellation rates
+
+### Seasonal Trends
+- Peak booking activity was observed during specific months
+- Seasonal demand fluctuations significantly impacted reservations
+
+### Customer Booking Behavior
+- Advance booking behavior varied among customers
+- Repeat customers showed different booking patterns compared to new customers
+- Stay duration and reservation timing influenced booking outcomes
+
+### Data Relationships
+- Correlation analysis revealed important feature relationships
+- Some numerical variables showed moderate to strong correlations
+
+### Overall Insight
+The analysis successfully highlighted critical business trends and customer behavior patterns that can support future dashboard development and predictive analytics.
+
+---
