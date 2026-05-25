@@ -42,3 +42,5 @@ Day-5:Handled missing values in agent and country columns
 Day-6:Performed ADR outlier detection and removed extreme values
 
 Day-7:Verified cleaned dataset and exported cleaned_step2.csv
+
+**Completed week 1 data cleaning and preprocessing tasks
