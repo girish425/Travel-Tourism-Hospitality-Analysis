@@ -1,0 +1,64 @@
+Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis
+
+Your role in the project is mainly Data Cleaning.
+You are preparing the dataset before Machine Learning and Dashboard creation.
+
+Step-by-Step Detailed Explanation
+------------------------------------------
+1. Load Dataset
+-------------------
+f = pd.read_csv('../data/cleaned/cleaned_step1.csv')
+
+What this means
+pd means Pandas library
+read_csv() is used to load the CSV file
+Dataset is stored inside variable df
+
+2. Check Missing Values
+-----------------------------
+df.isnull().sum()
+
+Missing data can:
+1.reduce accuracy
+2.create wrong predictions
+3.affect analysis results
+
+3. Handle Missing Values (main task of Person 2)
+------------------------------
+ A. Company Column:
+df.drop('company', axis=1, inplace=True)
+The company column has too many missing values.
+ex: 90% values may be empty
+
+B. Agent Column:
+df['agent'].fillna(df['agent'].median(), inplace=True)
+agent column contains numeric values.(Median Is Used)
+fillna(): Replaces missing values.
+median(): Finds middle value of column.
+
+C. Country Column:
+
+df['country'].fillna(df['country'].mode()[0], inplace=True)
+country is a categorical column (Mode Is Used)
+
+4. Check Outliers in ADR
+------------------------------
+ADR = Average Daily Rate
+Boxplot Visualization
+sns.boxplot(x=df['adr'])
+plt.show()
+Creates a boxplot to visually identify extreme values.
+
+Remove Extreme ADR Outliers
+----------------------------------------
+df = df[df['adr'] < 500]
+Keep only rows where ADR is less than 500.
+
+Verify Cleaning
+---------------------
+df.describe()
+Shows statistical summary of dataset.
+
+7. Save Cleaned Dataset
+df.to_csv('../data/cleaned/cleaned_step2.csv', index=False)
+Saves final cleaned dataset.
