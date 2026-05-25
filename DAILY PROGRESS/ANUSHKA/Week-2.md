@@ -117,9 +117,6 @@ plt.ylabel("Number of Cancellations")
 plt.xticks(rotation=45)
 
 plt.show()
-```
-
----
 
 # Day 4 – ADR (Average Daily Rate) Analysis
 
@@ -158,9 +155,7 @@ plt.ylabel("Average Daily Rate")
 plt.xticks(rotation=45)
 
 plt.show()
-```
 
----
 
 # Day 5 – Lead Time Distribution Analysis
 
