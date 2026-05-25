@@ -1,12 +1,12 @@
-📌 Person 3 — Feature Engineering & Documentation
-📄 Description of Work
+# Person 3 — Feature Engineering & Documentation
+## 📄 Description of Work
 
 My role was to perform feature engineering on the cleaned hotel bookings dataset and document the steps clearly. Feature engineering was done to create meaningful variables that enhance data understanding and support further analysis and machine learning tasks.
 
-📂 Dataset Used
+## 📂 Dataset Used
 Input Dataset: cleaned_step2.csv
 Output Dataset: final_cleaned_hotel_bookings.csv
-⚙️ Feature Engineering Steps
+## ⚙️ Feature Engineering Steps
 1️⃣ Load the Dataset
 
 The cleaned dataset obtained from the previous preprocessing step was loaded using Pandas.
@@ -67,22 +67,22 @@ df['season'] = df['arrival_date_month'].apply(get_season)
 Purpose:
 Enables seasonal trend analysis in hotel bookings.
 
-🔍 Final Dataset Verification
+## 🔍 Final Dataset Verification
 
 The dataset was checked to ensure all new features were added correctly and no inconsistencies were introduced.
 
 df.head()
 df.info()
-💾 Save Final Cleaned Dataset
+## 💾 Save Final Cleaned Dataset
 
 The final dataset with engineered features was saved for further analysis and modeling.
 
 df.to_csv('../data/cleaned/final_cleaned_hotel_bookings.csv', index=False)
-📊 Key Observations
+## 📊 Key Observations
 Feature engineering significantly enhanced the analytical quality of the dataset.
 Booking behavior can now be analyzed using stay duration, guest count, booking type, and season.
 The dataset is well-structured and ready for machine learning tasks.
-📝 Documentation Work
+## 📝 Documentation Work
 Added markdown explanations in the notebook
 Clearly described newly created features
 Updated the project README with detailed documentation
