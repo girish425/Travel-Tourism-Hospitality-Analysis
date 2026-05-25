@@ -1,7 +1,34 @@
-#Weeky Progress
----------------
-#Week-1
+Project Overview
+================
+This project focuses on analyzing hotel booking data to improve:
 
+* Customer retention
+* Booking cancellation prediction
+* Dynamic pricing strategies
+* Revenue optimization
+Hotels and travel companies often lose revenue due to:
+
+* frequent booking cancellations
+* improper room pricing
+* seasonal demand fluctuations
+
+The project aims to clean, analyze, and model hotel booking data to support smarter business decisions.
+
+##Person 2 — Missing Values & Outlier Treatment
+===============================================
+My responsibility in the project was to perform data cleaning and preprocessing on the hotel booking dataset.
+
+Main tasks included:
+-------------------
+* Handling missing values
+* Removing unnecessary columns
+* Treating outliers in ADR
+* Preparing a clean dataset for further analysis and machine learning
+
+#Weeky Progress of Person-2
+===========================
+#Week-1
+-------
 Day-1: Initialized project structure and added hotel booking dataset
 
 Day-2:Loaded cleaned_step1 dataset using pandas
