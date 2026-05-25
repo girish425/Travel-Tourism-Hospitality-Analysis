@@ -203,3 +203,33 @@ Several important observations were identified during the analysis process.
 The analysis successfully highlighted critical business trends and customer behavior patterns that can support future dashboard development and predictive analytics.
 
 ---
+
+# Technologies Used
+
+The following technologies and tools were utilized throughout the project:
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+GitHub
+
+---
+
+# Conclusion
+
+During Week 1 and Week 2, significant progress was made in establishing the project environment, cleaning the dataset, and performing exploratory analysis.
+
+The completed tasks provided:
+- A clean and structured dataset
+- Strong understanding of booking behavior
+- Valuable insights into cancellation patterns
+- Effective visual representation of trends and relationships
