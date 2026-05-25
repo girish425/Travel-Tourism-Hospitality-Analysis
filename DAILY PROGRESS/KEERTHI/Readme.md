@@ -14,6 +14,15 @@ Hotels and travel companies often lose revenue due to:
 
 The project aims to clean, analyze, and model hotel booking data to support smarter business decisions.
 
+#Technologies Used
+-----------------
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
 ##Person 2 — Missing Values & Outlier Treatment
 ===============================================
 My responsibility in the project was to perform data cleaning and preprocessing on the hotel booking dataset.
@@ -43,4 +52,4 @@ Day-6:Performed ADR outlier detection and removed extreme values
 
 Day-7:Verified cleaned dataset and exported cleaned_step2.csv
 
-**Completed week 1 data cleaning and preprocessing tasks
+Completed week 1 data cleaning and preprocessing tasks
