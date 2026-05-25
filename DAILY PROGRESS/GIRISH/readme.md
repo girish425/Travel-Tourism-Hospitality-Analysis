@@ -45,6 +45,7 @@ Data Acquisition, Initial Cleaning & EDA Support
 -Created visualizations using:
 
    -Matplotlib
+   
    -Seaborn
 
 ### Visuals included:
