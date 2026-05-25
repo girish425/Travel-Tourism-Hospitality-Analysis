@@ -33,3 +33,5 @@ In addition to feature engineering, I:
 * Added clear markdown explanations in the notebook
 * Documented feature definitions and purpose
 * Updated the project README to reflect my contributions
+
+## EDA SECTION 3: Seasonality & Trends (WEEK-2)
