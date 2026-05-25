@@ -220,7 +220,7 @@ The following technologies and tools were utilized throughout the project:
 
 -Jupyter Notebook
 
-GitHub
+-GitHub
 
 ---
 
