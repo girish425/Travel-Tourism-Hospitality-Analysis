@@ -43,8 +43,6 @@ After completing the feature engineering phase, the next step of this project fo
 
 The EDA process helped transform raw data into meaningful observations that can support better decision-making in areas such as pricing strategy, cancellation management, and demand forecasting.
 
----
-
 # 📄 Objectives of the EDA
 
 The analysis was mainly focused on:
@@ -57,7 +55,6 @@ The analysis was mainly focused on:
 
 The visualizations were designed to make the patterns easy to interpret and business-oriented.
 
----
 
 # 🔍 Visualization & Insights
 
