@@ -2,8 +2,6 @@
 
 ## Exploratory Data Analysis (EDA) on Hotel Booking Dataset
 
----
-
 # Day 1 – Understanding the Dataset & Initial Exploration
 
 ### Work Done
@@ -36,9 +34,7 @@ print(df.isnull().sum())
 
 # Statistical summary
 print(df.describe())
-```
 
----
 
 # Day 2 – Monthly Booking Trend Analysis
 
@@ -79,9 +75,7 @@ plt.ylabel("Number of Bookings")
 plt.xticks(rotation=45)
 
 plt.show()
-```
 
----
 
 # Day 3 – Cancellation Rate Analysis
 
