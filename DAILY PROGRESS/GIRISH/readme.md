@@ -39,3 +39,34 @@ The initial phase of the project involved creating and organizing the developmen
 - Configured the Jupyter Notebook environment for data analysis
 - Installed and verified required Python libraries and dependencies
 - Prepared the environment for collaborative team development
+
+  ### Outcome
+A well-structured and organized project environment was successfully established, enabling efficient project execution and team collaboration.
+
+---
+
+## 2. Dataset Loading & Initial Inspection
+
+The dataset was imported and carefully examined to understand its structure, quality, and available features before performing any transformations.
+
+### Tasks Performed
+- Imported the dataset using the Pandas library
+- Loaded the dataset into a Jupyter Notebook for analysis
+- Performed initial inspection using:
+  - `.head()`
+  - `.info()`
+  - `.describe()`
+  - `.shape()`
+- Checked:
+  - Total number of rows and columns
+  - Column names and feature descriptions
+  - Data types of all variables
+  - Missing values
+  - Unique values in categorical columns
+- Identified numerical and categorical features separately
+- Verified overall dataset consistency and readability
+
+### Outcome
+Successfully understood the structure and characteristics of the dataset, which helped in planning the data cleaning and analysis process.
+
+---
