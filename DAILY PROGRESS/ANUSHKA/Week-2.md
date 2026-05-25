@@ -228,7 +228,6 @@ The EDA findings can help in:
 * Customer behavior analysis
 * Business decision-making
 
----
 
 # Tools & Technologies Used
 
@@ -238,7 +237,6 @@ The EDA findings can help in:
 * Seaborn
 * Jupyter Notebook
 
----
 
 # Conclusion
 
