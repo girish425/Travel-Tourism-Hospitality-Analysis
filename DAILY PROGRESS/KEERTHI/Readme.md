@@ -62,8 +62,8 @@ Main Tasks Included:
 * ADR (Average Daily Rate) Analysis
 * Pricing trends
 * Revenue behavior
-4. Price elasticity insights
-5. Market segment pricing comparison
+* Price elasticity insights
+* Market segment pricing comparison
 
 Week-2 
 ------
