@@ -4,9 +4,9 @@ Your role in the project is mainly Data Cleaning.
 You are preparing the dataset before Machine Learning and Dashboard creation.
 
 Step-by-Step Detailed Explanation
-------------------------------------------
+---------------------------------
 1. Load Dataset
--------------------
+---------------
 f = pd.read_csv('../data/cleaned/cleaned_step1.csv')
 
 What this means
@@ -15,7 +15,7 @@ read_csv() is used to load the CSV file
 Dataset is stored inside variable df
 
 2. Check Missing Values
------------------------------
+-----------------------
 df.isnull().sum()
 
 Missing data can:
@@ -24,7 +24,7 @@ Missing data can:
 3.affect analysis results
 
 3. Handle Missing Values (main task of Person 2)
-------------------------------
+------------------------
  A. Company Column:
 ------------------
 df.drop('company', axis=1, inplace=True)
@@ -44,7 +44,7 @@ df['country'].fillna(df['country'].mode()[0], inplace=True)
 country is a categorical column (Mode Is Used)
 
 4. Check Outliers in ADR
-------------------------------
+------------------------
 ADR = Average Daily Rate
 Boxplot Visualization
 sns.boxplot(x=df['adr'])
@@ -52,12 +52,12 @@ plt.show()
 Creates a boxplot to visually identify extreme values.
 
 5. Remove Extreme ADR Outliers
-----------------------------------------
+------------------------------
 df = df[df['adr'] < 500]
 Keep only rows where ADR is less than 500.
 
 6. Verify Cleaning
----------------------
+------------------
 df.describe()
 Shows statistical summary of dataset.
 
