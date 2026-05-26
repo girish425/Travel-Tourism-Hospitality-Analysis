@@ -36,7 +36,7 @@ Main tasks included:
 
 #Weeky Progress of Person-2
 ===========================
-#Week-1
+Week-1
 -------
 Day-1: Initialized project structure and added hotel booking dataset
 
@@ -53,3 +53,12 @@ Day-6:Performed ADR outlier detection and removed extreme values
 Day-7:Verified cleaned dataset and exported cleaned_step2.csv
 
 Completed week 1 data cleaning and preprocessing tasks
+
+Week-2 
+------
+* ADR (Average Daily Rate) Analysis
+* Pricing trends
+* Revenue behavior
+* Price elasticity insights
+* Market segment pricing comparison
+
