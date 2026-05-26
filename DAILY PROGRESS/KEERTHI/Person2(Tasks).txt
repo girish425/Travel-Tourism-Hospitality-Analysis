@@ -23,3 +23,5 @@ preparing the dataset before Machine Learning and Dashboard creation.
 1. ADR (Average Daily Rate) Analysis
 
 2. Pricing trends
+
+3. Revenue behavior
