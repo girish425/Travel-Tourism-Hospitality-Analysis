@@ -17,3 +17,6 @@ preparing the dataset before Machine Learning and Dashboard creation.
 6. Verify Cleaning
 
 7. Save Cleaned Dataset
+
+#Tasks Need to Perform for WEEK-2
+---------------------------------
