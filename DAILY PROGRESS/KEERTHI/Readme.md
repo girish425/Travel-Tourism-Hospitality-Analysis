@@ -59,11 +59,12 @@ WEEK 2 – Exploratory Data Analysis (EDA) & Statistical Insights
 
 Main Tasks Included:
 -------------------
-1. ADR (Average Daily Rate) Analysis
-2. Pricing trends
-3. Revenue behavior
+* ADR (Average Daily Rate) Analysis
+* Pricing trends
+* Revenue behavior
 4. Price elasticity insights
 5. Market segment pricing comparison
+
 Week-2 
 ------
 Day-1:Initialize pricing and ADR analysis notebook
