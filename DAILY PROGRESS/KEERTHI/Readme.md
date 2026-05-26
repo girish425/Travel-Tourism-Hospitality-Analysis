@@ -62,3 +62,11 @@ Week-2
 * Price elasticity insights
 * Market segment pricing comparison
 
+Day-1:Initialize pricing and ADR analysis notebook
+
+Day-2:Perform dataset inspection for ADR analysis
+
+Day-3:Add stay duration and guest count features
+
+Day-4:Analyze ADR distribution and pricing trends
+
