@@ -23,7 +23,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-Person 2 — Missing Values & Outlier Treatment
+WEEK-1 — Missing Values & Outlier Treatment
 ===============================================
 My responsibility in the project was to perform data cleaning and preprocessing on the hotel booking dataset.
 
@@ -54,6 +54,16 @@ Day-7:Verified cleaned dataset and exported cleaned_step2.csv
 
 Completed week 1 data cleaning and preprocessing tasks
 
+WEEK 2 – Exploratory Data Analysis (EDA) & Statistical Insights
+===============================================================
+
+Main Tasks Included:
+-------------------
+1. ADR (Average Daily Rate) Analysis
+2. Pricing trends
+3. Revenue behavior
+4. Price elasticity insights
+5. Market segment pricing comparison
 Week-2 
 ------
 Day-1:Initialize pricing and ADR analysis notebook
