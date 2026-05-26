@@ -56,12 +56,6 @@ Completed week 1 data cleaning and preprocessing tasks
 
 Week-2 
 ------
-* ADR (Average Daily Rate) Analysis
-* Pricing trends
-* Revenue behavior
-* Price elasticity insights
-* Market segment pricing comparison
-
 Day-1:Initialize pricing and ADR analysis notebook
 
 Day-2:Perform dataset inspection for ADR analysis
