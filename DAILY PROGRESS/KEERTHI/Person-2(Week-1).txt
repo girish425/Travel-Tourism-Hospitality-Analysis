@@ -1,5 +1,5 @@
 Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis
-=======================================================================================
+========================================================================================
 Your role in the project is mainly Data Cleaning.
 You are preparing the dataset before Machine Learning and Dashboard creation.
 
