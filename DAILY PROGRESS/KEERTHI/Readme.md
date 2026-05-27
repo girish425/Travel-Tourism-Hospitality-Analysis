@@ -16,6 +16,10 @@ Technologies Used
 -----------------
 To complete this work, I used Python along with several data analysis libraries. Pandas was used for data manipulation and handling missing values. NumPy supported numerical operations, while Matplotlib and Seaborn were used for data visualization, especially for identifying outliers using boxplots. The entire work was performed in Jupyter Notebook.
 
+Company Column Removal
+----------------------
+The company column contained a very high percentage of missing values. Since the majority of records in this column were empty and contributed little analytical value, the column was removed from the dataset. This improved dataset quality and reduced unnecessary complexity.
+
 Week 1 – Data Cleaning & Preprocessing
 ======================================
 Dataset Loading and Initial Setup
