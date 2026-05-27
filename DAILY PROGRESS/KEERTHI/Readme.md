@@ -108,3 +108,12 @@ Major contributions included:
 * Customer pricing behavior analysis
 * Revenue optimization insights
 These findings supported the overall goals of improving customer retention, optimizing pricing strategies, enhancing revenue generation, and enabling data-driven business decisions.
+
+🔁 Project Workflow
+-------------------
+The project workflow followed a structured process beginning with dataset loading and preprocessing. Missing values were identified and handled, ADR outliers were detected and removed, and the cleaned dataset was prepared for further analysis. In the second phase, ADR distribution analysis, cancellation analysis, market segment pricing analysis, and customer pricing behavior analysis were performed to generate business insights and pricing recommendations.
+
+🎯 Outcome
+-----------
+The work completed as Person 2 provided a strong foundation for further project stages such as Exploratory Data Analysis (EDA), Machine Learning model development, customer retention prediction, dynamic pricing analysis, and dashboard creation using business intelligence tools.
+The cleaned dataset and ADR analysis results helped generate reliable insights into hotel pricing behavior, customer retention patterns, and revenue optimization opportunities.
