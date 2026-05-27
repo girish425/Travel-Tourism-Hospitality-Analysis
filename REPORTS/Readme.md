@@ -66,9 +66,8 @@ The main objectives of this project are:
 
 ## Python
 * Data cleaning
-Exploratory Data Analysis
-
-Data preprocessing
+* Exploratory Data Analysis
+* Data preprocessing
 
 Trend identification
 
