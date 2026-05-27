@@ -2,22 +2,11 @@ Project Overview
 ================
 Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis
 ----------------------------------------------------------------------------------------
-My role in the project is mainly Data Cleaning,
-preparing the dataset before Machine Learning and Dashboard creation.
+The Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis project focuses on analyzing hotel booking data to improve customer retention, reduce booking cancellations, and optimize hotel pricing strategies. Hotels often face revenue loss due to frequent booking cancellations and improper pricing during different seasons. This project aims to understand customer booking behavior and support hotels in making smarter business decisions using data analysis and machine learning techniques.
 
-This project focuses on analyzing hotel booking data to improve:
-
-* Customer retention
-* Booking cancellation prediction
-* Dynamic pricing strategies
-* Revenue optimization
-Hotels and travel companies often lose revenue due to:
-
-* frequent booking cancellations
-* improper room pricing
-* seasonal demand fluctuations
-
-The project aims to clean, analyze, and model hotel booking data to support smarter business decisions.
+Person 2 — Missing Values & Outlier Treatment
+---------------------------------------------
+My responsibility was to clean and preprocess the dataset before it was used for Exploratory Data Analysis (EDA), Machine Learning, and dashboard development. My work mainly focused on handling missing values, removing unnecessary data, identifying outliers, and preparing a high-quality cleaned dataset for the next stages of the project.
 
 Technologies Used
 -----------------
