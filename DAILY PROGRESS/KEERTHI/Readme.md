@@ -58,14 +58,14 @@ During the second week, the focus shifted toward Pricing & Revenue Analysis usin
 The analysis helped identify common pricing ranges, pricing concentration levels, and variations in room pricing behavior. It also highlighted the presence of premium or luxury customer segments associated with higher ADR values.
 Visualizations such as histogram plots and distribution curves were used to study the overall ADR spread and pricing patterns.
 
-ADR vs Cancellation Analysis
-----------------------------
+🔄 ADR vs Cancellation Analysis
+-------------------------------
 An analysis was conducted to study the relationship between ADR values and booking cancellations. The objective was to understand how pricing influences customer retention and cancellation behavior.
 This analysis compared ADR values between canceled and non-canceled bookings and examined customer price sensitivity during higher pricing periods. The results indicated that bookings with higher ADR values showed increased cancellation tendencies, suggesting the importance of balanced pricing strategies.
 Boxplots and comparative pricing distributions were used to visualize the relationship between pricing and cancellations.
 
-Market Segment Pricing Analysis
--------------------------------
+📈 Market Segment Pricing Analysis
+----------------------------------
 Pricing comparisons were performed across different market segments to evaluate customer acquisition channels and revenue contribution.
 The analysis included comparisons among:
 * Corporate customers
@@ -75,8 +75,8 @@ The analysis included comparisons among:
 This helped identify which customer segments generated higher ADR values and contributed more significantly to hotel revenue.
 Bar plots were used to visualize pricing differences among market segments.
 
-Customer Type Pricing Behavior Analysis
----------------------------------------
+👥 Customer Type Pricing Behavior Analysis
+------------------------------------------
 Customer-specific pricing behavior was analyzed to understand ADR variations across different customer categories.
 * The analysis focused on:
 * Transient customers
@@ -85,8 +85,8 @@ Customer-specific pricing behavior was analyzed to understand ADR variations acr
 This study evaluated pricing consistency and booking behavior among different customer types. Transient customers showed wider ADR variation, while contract customers maintained more stable pricing patterns. Group bookings displayed less pricing consistency due to variations in booking size and demand.
 Box plots were used to visualize ADR distribution across different customer categories and to identify pricing spread, median values, and pricing variability among customer types.
 
-Revenue & Pricing Insights Documentation
-----------------------------------------
+📝 Revenue & Pricing Insights Documentation
+--------------------------------------------
 Based on the ADR analysis and customer behavior studies, several business-focused recommendations were documented to support revenue optimization and customer retention strategies.
 The key recommendations included:
 * Applying dynamic pricing during high-demand periods
@@ -95,8 +95,8 @@ The key recommendations included:
 * Improving retention strategies for high-value bookings
 These insights contributed to the business objective of maximizing revenue while reducing booking cancellations.
 
-Contribution Summary
---------------------
+📌 Contribution Summary
+-----------------------
 The work completed during Weeks 1 and 2 significantly contributed to improving dataset quality and generating revenue-focused business insights.
 Major contributions included:
 * Missing value handling
