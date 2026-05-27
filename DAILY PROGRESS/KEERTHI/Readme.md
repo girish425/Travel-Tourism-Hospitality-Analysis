@@ -12,6 +12,10 @@ Dataset Used
 ------------
 For this task, I worked on the dataset named cleaned_step1.csv. This dataset contained hotel booking details such as customer information, cancellation status, room pricing (ADR), booking dates, country information, and agent details. After completing the cleaning and preprocessing steps, I saved the final cleaned dataset as cleaned_step2.csv, which was later used for EDA and machine learning tasks.
 
+Technologies Used
+-----------------
+To complete this work, I used Python along with several data analysis libraries. Pandas was used for data manipulation and handling missing values. NumPy supported numerical operations, while Matplotlib and Seaborn were used for data visualization, especially for identifying outliers using boxplots. The entire work was performed in Jupyter Notebook.
+
 WEEK-1 — Missing Values & Outlier Treatment
 ===============================================
 My responsibility in the project was to perform data cleaning and preprocessing on the hotel booking dataset.
