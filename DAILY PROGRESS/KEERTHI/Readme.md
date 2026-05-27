@@ -42,6 +42,14 @@ ADR Outlier Detection
 ---------------------
 Outlier detection was performed on the ADR (Average Daily Rate) column to identify abnormal pricing values. Visual analysis techniques were used to detect extreme ADR values that significantly differed from the normal hotel pricing range. Detecting outliers was important because abnormal values can negatively impact data analysis and machine learning performance.
 
+ADR Outlier Removal
+-------------------
+After identifying abnormal ADR values, extreme pricing records were removed from the dataset. This improved data quality, ensured more realistic pricing representation, and enhanced the reliability of future analysis and predictive models.
+
+Dataset Verification and Export
+-------------------------------
+After completing the cleaning process, the dataset was verified to ensure that missing values and outliers had been properly handled. The cleaned dataset was then exported for further Exploratory Data Analysis, Machine Learning tasks, and dashboard development.
+
 Weeky Progress of Person-2
 ===========================
 Week-1
