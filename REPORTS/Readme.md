@@ -68,18 +68,16 @@ The main objectives of this project are:
 * Data cleaning
 * Exploratory Data Analysis
 * Data preprocessing
+* Trend identification
 
-Trend identification
+## Libraries used:
+* Pandas
 
-Libraries used:
+* NumPy
 
-Pandas
+* Matplotlib
 
-NumPy
-
-Matplotlib
-
-Seaborn
+* Seaborn
 
 5. Dataset Description
 
