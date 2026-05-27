@@ -78,8 +78,29 @@ The main objectives of this project are:
 
 ## 5. Dataset Description
 * The hotel booking dataset contains information related to hotel reservations and customer details.
-* The important fields included:
+'The important fields included:'
+-Booking ID
+-Customer Type
+-Reservation Status
+-Market Segment
+-ADR (Average Daily Rate)
+-Country
+-Season
+-Booking Channel
+-Cancellation Status
+-Room Type
+-Booking Date
 
+## 6. Data Cleaning and Preprocessing
+* Before visualization, the data was cleaned using Python and SQL.
+* The preprocessing steps included:
+* Removing duplicate records
+-Handling missing values
+-Standardizing category names
+-Converting date formats
+-Correcting inconsistent entries
+-Filtering invalid booking record
+  
 
 
 
