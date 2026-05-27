@@ -63,9 +63,8 @@ The main objectives of this project are:
 * Query execution
 * Aggregation and filtering
 * Managing hotel booking datasets
-* Python
 
-Used for:
+## Python
 
 Data cleaning
 
