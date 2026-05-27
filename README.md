@@ -106,8 +106,11 @@ Generated visualizations using:
 - Correlation Heatmaps
 - Booking trend analysis charts
 
+
 ### Statistical Insights
 - Identified important variables influencing booking cancellations
 - Observed customer booking behavior trends
 - Explored seasonal booking patterns
 - Analyzed relationships between booking features
+
+<img width="1338" height="745" alt="image" src="https://github.com/user-attachments/assets/8c962036-c977-415a-8784-83339ca1d240" />
