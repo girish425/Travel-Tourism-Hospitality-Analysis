@@ -5,7 +5,7 @@ Project: Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricin
 The Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis project focuses on analyzing hotel booking data to improve customer retention, reduce booking cancellations, and optimize hotel pricing strategies. Hotels often face revenue loss due to frequent booking cancellations and improper pricing during different seasons. This project aims to understand customer booking behavior and support hotels in making smarter business decisions using data analysis and machine learning techniques.
 
 Person 2 — Missing Values & Outlier Treatment
----------------------------------------------
+=============================================
 My responsibility was to clean and preprocess the dataset before it was used for Exploratory Data Analysis (EDA), Machine Learning, and dashboard development. My work mainly focused on handling missing values, removing unnecessary data, identifying outliers, and preparing a high-quality cleaned dataset for the next stages of the project.
 
 Dataset Used
@@ -22,6 +22,9 @@ Dataset Loading and Initial Setup
 ---------------------------------
 During the first week of the project, the hotel booking dataset was loaded into Python for preprocessing and cleaning activities. The dataset contained booking details, customer information, hotel pricing data, cancellation records, and market-related attributes. This step established the foundation for all further analysis and machine learning tasks.
 
+Missing Value Analysis
+----------------------
+A detailed missing value analysis was performed to identify incomplete or null values within the dataset. The analysis revealed missing data in important columns such as company, agent, and country. Identifying these missing values was necessary to ensure accurate preprocessing and reliable analytical outcomes.
 
 Weeky Progress of Person-2
 ===========================
