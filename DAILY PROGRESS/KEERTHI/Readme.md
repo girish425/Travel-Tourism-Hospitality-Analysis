@@ -16,10 +16,6 @@ Technologies Used
 -----------------
 To complete this work, I used Python along with several data analysis libraries. Pandas was used for data manipulation and handling missing values. NumPy supported numerical operations, while Matplotlib and Seaborn were used for data visualization, especially for identifying outliers using boxplots. The entire work was performed in Jupyter Notebook.
 
-Company Column Removal
-----------------------
-The company column contained a very high percentage of missing values. Since the majority of records in this column were empty and contributed little analytical value, the column was removed from the dataset. This improved dataset quality and reduced unnecessary complexity.
-
 Week 1 – Data Cleaning & Preprocessing
 ======================================
 Dataset Loading and Initial Setup
@@ -49,6 +45,10 @@ After identifying abnormal ADR values, extreme pricing records were removed from
 Dataset Verification and Export
 -------------------------------
 After completing the cleaning process, the dataset was verified to ensure that missing values and outliers had been properly handled. The cleaned dataset was then exported for further Exploratory Data Analysis, Machine Learning tasks, and dashboard development.
+
+Company Column Removal
+----------------------
+The company column contained a very high percentage of missing values. Since the majority of records in this column were empty and contributed little analytical value, the column was removed from the dataset. This improved dataset quality and reduced unnecessary complexity.
 
 Weeky Progress of Person-2
 ===========================
