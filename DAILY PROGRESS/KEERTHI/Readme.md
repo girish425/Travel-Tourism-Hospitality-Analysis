@@ -8,14 +8,9 @@ Person 2 — Missing Values & Outlier Treatment
 ---------------------------------------------
 My responsibility was to clean and preprocess the dataset before it was used for Exploratory Data Analysis (EDA), Machine Learning, and dashboard development. My work mainly focused on handling missing values, removing unnecessary data, identifying outliers, and preparing a high-quality cleaned dataset for the next stages of the project.
 
-Technologies Used
------------------
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Dataset Used
+------------
+For this task, I worked on the dataset named cleaned_step1.csv. This dataset contained hotel booking details such as customer information, cancellation status, room pricing (ADR), booking dates, country information, and agent details. After completing the cleaning and preprocessing steps, I saved the final cleaned dataset as cleaned_step2.csv, which was later used for EDA and machine learning tasks.
 
 WEEK-1 — Missing Values & Outlier Treatment
 ===============================================
