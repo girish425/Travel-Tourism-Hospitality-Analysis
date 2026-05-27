@@ -75,14 +75,14 @@ The analysis included comparisons among:
 This helped identify which customer segments generated higher ADR values and contributed more significantly to hotel revenue.
 Bar plots were used to visualize pricing differences among market segments.
 
-Week-2 
-------
-Day-1:Initialize pricing and ADR analysis notebook
+Customer Type Pricing Behavior Analysis
+---------------------------------------
+Customer-specific pricing behavior was analyzed to understand ADR variations across different customer categories.
+* The analysis focused on:
+* Transient customers
+* Contract customers
+* Group bookings
+This study evaluated pricing consistency and booking behavior among different customer types. Transient customers showed wider ADR variation, while contract customers maintained more stable pricing patterns. Group bookings displayed less pricing consistency due to variations in booking size and demand.
+Box plots were used to visualize ADR distribution across different customer categories and to identify pricing spread, median values, and pricing variability among customer types.
 
-Day-2:Perform dataset inspection for ADR analysis
 
-Day-3:Add stay duration and guest count features
-
-Day-4:Analyze ADR distribution and pricing trends
-
-Day--5:Compare ADR patterns with booking cancellations
