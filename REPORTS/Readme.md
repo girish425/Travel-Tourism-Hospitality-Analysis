@@ -72,22 +72,15 @@ The main objectives of this project are:
 
 ## Libraries used:
 * Pandas
-
 * NumPy
-
 * Matplotlib
-
 * Seaborn
 
-5. Dataset Description
+## 5. Dataset Description
+* The hotel booking dataset contains information related to hotel reservations and customer details.
+* The important fields included:
 
-The hotel booking dataset contains information related to hotel reservations and customer details.
 
-The important fields included:
-
-Booking ID
-
-Customer Type
 
 
 
