@@ -1,11 +1,12 @@
 # HOTEL BOOKING ANALYTICS DASHBOARD
+-------------------------------------------------------------------------------------------------------------------------
 ## 1. Introduction
 * The Hotel Booking Analytics Dashboard is a business intelligence project designed to analyze hotel booking
 trends, customer behavior, cancellation patterns, seasonal demand, and revenue performance.
 The project helps hotel management understand customer booking patterns and improve operational
 efficiency through data-driven insights.
 
-* The dashboard provides a detailed overview of: 
+## The dashboard provides a detailed overview of: 
 - Total bookings
 - Confirmed bookings
 - Cancellation rate
@@ -15,28 +16,29 @@ efficiency through data-driven insights.
 - Booking channels
 - Market segment analysis
   
-* The project was developed using:
+## The project was developed using:
 - Power BI
 - SQL
 - Python
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2. Problem Statement
 Hotels receive thousands of bookings from different customer types and booking platforms. Managing and
 analyzing this information manually becomes difficult.
-* The organization required a dashboard to:
--Monitor booking trends
+## The organization required a dashboard to:
+- Monitor booking trends
 - Track cancellation rates
 - Understand customer behavior
 - Analyze seasonal demand
 - Improve revenue management
 - Identify profitable customer segments
 - Optimize hotel operations
-* Without proper analysis, hotels may face issues such as:
+## Without proper analysis, hotels may face issues such as:
 - High cancellation rates
 - Poor room utilization
 - Revenue loss
 - Inefficient pricing strategies
 - Improper demand forecasting
-- 
+-------------------------------------------------------------------------------------------------------------------------------
 ## 3. Objectives of the Project
 The main objectives of this project are:
 1. To analyze hotel booking performance
@@ -46,7 +48,7 @@ The main objectives of this project are:
 5. To improve pricing and revenue strategies
 6. To provide interactive business insights using Power BI
 7. To support hotel decision-making using analytics
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ## 4. Technologies Used
 * Power BI
 * Used for:
