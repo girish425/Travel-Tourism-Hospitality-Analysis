@@ -64,6 +64,16 @@ An analysis was conducted to study the relationship between ADR values and booki
 This analysis compared ADR values between canceled and non-canceled bookings and examined customer price sensitivity during higher pricing periods. The results indicated that bookings with higher ADR values showed increased cancellation tendencies, suggesting the importance of balanced pricing strategies.
 Boxplots and comparative pricing distributions were used to visualize the relationship between pricing and cancellations.
 
+Market Segment Pricing Analysis
+-------------------------------
+Pricing comparisons were performed across different market segments to evaluate customer acquisition channels and revenue contribution.
+The analysis included comparisons among:
+* Corporate customers
+* Direct bookings
+* Online Travel Agencies (OTA)
+* Offline travel agents
+This helped identify which customer segments generated higher ADR values and contributed more significantly to hotel revenue.
+Bar plots were used to visualize pricing differences among market segments.
 
 Week-2 
 ------
