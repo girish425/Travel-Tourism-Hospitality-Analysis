@@ -80,3 +80,4 @@ Day-3:Add stay duration and guest count features
 
 Day-4:Analyze ADR distribution and pricing trends
 
+Day--5:Compare ADR patterns with booking cancellations
