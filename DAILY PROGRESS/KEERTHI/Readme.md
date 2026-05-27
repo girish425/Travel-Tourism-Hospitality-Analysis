@@ -16,16 +16,12 @@ Technologies Used
 -----------------
 To complete this work, I used Python along with several data analysis libraries. Pandas was used for data manipulation and handling missing values. NumPy supported numerical operations, while Matplotlib and Seaborn were used for data visualization, especially for identifying outliers using boxplots. The entire work was performed in Jupyter Notebook.
 
-WEEK-1 — Missing Values & Outlier Treatment
-===============================================
-My responsibility in the project was to perform data cleaning and preprocessing on the hotel booking dataset.
+Week 1 – Data Cleaning & Preprocessing
+======================================
+Dataset Loading and Initial Setup
+---------------------------------
+During the first week of the project, the hotel booking dataset was loaded into Python for preprocessing and cleaning activities. The dataset contained booking details, customer information, hotel pricing data, cancellation records, and market-related attributes. This step established the foundation for all further analysis and machine learning tasks.
 
-Main tasks included:
--------------------
-* Handling missing values
-* Removing unnecessary columns
-* Treating outliers in ADR
-* Preparing a clean dataset for further analysis and machine learning
 
 Weeky Progress of Person-2
 ===========================
