@@ -114,3 +114,5 @@ Generated visualizations using:
 - Analyzed relationships between booking features
 
 <img width="1338" height="745" alt="image" src="https://github.com/user-attachments/assets/8c962036-c977-415a-8784-83339ca1d240" />
+<img width="1338" height="738" alt="image" src="https://github.com/user-attachments/assets/ff3ba7f0-3b7a-443d-be92-bbfe452f1866" />
+
