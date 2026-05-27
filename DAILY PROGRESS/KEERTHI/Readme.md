@@ -85,4 +85,26 @@ Customer-specific pricing behavior was analyzed to understand ADR variations acr
 This study evaluated pricing consistency and booking behavior among different customer types. Transient customers showed wider ADR variation, while contract customers maintained more stable pricing patterns. Group bookings displayed less pricing consistency due to variations in booking size and demand.
 Box plots were used to visualize ADR distribution across different customer categories and to identify pricing spread, median values, and pricing variability among customer types.
 
+Revenue & Pricing Insights Documentation
+----------------------------------------
+Based on the ADR analysis and customer behavior studies, several business-focused recommendations were documented to support revenue optimization and customer retention strategies.
+The key recommendations included:
+* Applying dynamic pricing during high-demand periods
+* Offering targeted discounts to price-sensitive customers
+* Monitoring OTA pricing fluctuations carefully
+* Improving retention strategies for high-value bookings
+These insights contributed to the business objective of maximizing revenue while reducing booking cancellations.
 
+Contribution Summary
+--------------------
+The work completed during Weeks 1 and 2 significantly contributed to improving dataset quality and generating revenue-focused business insights.
+Major contributions included:
+* Missing value handling
+* Outlier treatment
+* ADR cleaning
+* Pricing distribution analysis
+* Cancellation behavior analysis
+* Market segment pricing comparison
+* Customer pricing behavior analysis
+* Revenue optimization insights
+These findings supported the overall goals of improving customer retention, optimizing pricing strategies, enhancing revenue generation, and enabling data-driven business decisions.
