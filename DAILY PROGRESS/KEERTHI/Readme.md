@@ -50,36 +50,20 @@ Company Column Removal
 ----------------------
 The company column contained a very high percentage of missing values. Since the majority of records in this column were empty and contributed little analytical value, the column was removed from the dataset. This improved dataset quality and reduced unnecessary complexity.
 
-Weeky Progress of Person-2
-===========================
-Week-1
--------
-Day-1: Initialized project structure and added hotel booking dataset
+Week 2 – Pricing (ADR) & Revenue Analysis
+=========================================
+ADR Distribution Analysis
+-------------------------
+During the second week, the focus shifted toward Pricing & Revenue Analysis using ADR (Average Daily Rate) data. ADR distribution analysis was performed to understand hotel pricing behavior and revenue trends across customer bookings.
+The analysis helped identify common pricing ranges, pricing concentration levels, and variations in room pricing behavior. It also highlighted the presence of premium or luxury customer segments associated with higher ADR values.
+Visualizations such as histogram plots and distribution curves were used to study the overall ADR spread and pricing patterns.
 
-Day-2:Loaded cleaned_step1 dataset using pandas
+ADR vs Cancellation Analysis
+----------------------------
+An analysis was conducted to study the relationship between ADR values and booking cancellations. The objective was to understand how pricing influences customer retention and cancellation behavior.
+This analysis compared ADR values between canceled and non-canceled bookings and examined customer price sensitivity during higher pricing periods. The results indicated that bookings with higher ADR values showed increased cancellation tendencies, suggesting the importance of balanced pricing strategies.
+Boxplots and comparative pricing distributions were used to visualize the relationship between pricing and cancellations.
 
-Day-3:Performed missing value analysis on booking dataset
-
-Day-4:Dropped company column due to excessive missing values
-
-Day-5:Handled missing values in agent and country columns
-
-Day-6:Performed ADR outlier detection and removed extreme values
-
-Day-7:Verified cleaned dataset and exported cleaned_step2.csv
-
-Completed week 1 data cleaning and preprocessing tasks
-
-WEEK 2 – Exploratory Data Analysis (EDA) & Statistical Insights
-===============================================================
-
-Main Tasks Included:
--------------------
-* ADR (Average Daily Rate) Analysis
-* Pricing trends
-* Revenue behavior
-* Price elasticity insights
-* Market segment pricing comparison
 
 Week-2 
 ------
