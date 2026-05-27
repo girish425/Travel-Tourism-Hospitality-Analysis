@@ -65,9 +65,7 @@ The main objectives of this project are:
 * Managing hotel booking datasets
 
 ## Python
-
-Data cleaning
-
+* Data cleaning
 Exploratory Data Analysis
 
 Data preprocessing
