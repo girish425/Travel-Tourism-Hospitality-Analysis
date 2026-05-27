@@ -30,6 +30,18 @@ Missing Value Analysis
 ----------------------
 A detailed missing value analysis was performed to identify incomplete or null values within the dataset. The analysis revealed missing data in important columns such as company, agent, and country. Identifying these missing values was necessary to ensure accurate preprocessing and reliable analytical outcomes.
 
+Handling Missing Values in Agent Column
+---------------------------------------
+The agent column contained numerical values with missing entries. These missing values were handled using the median replacement technique. Median was chosen because it provides stable results and is less affected by extreme values or outliers.
+
+Handling Missing Values in Country Column
+-----------------------------------------
+The country column contained categorical information related to customer locations. Missing values in this column were replaced using the mode value, representing the most frequently occurring country in the dataset. This helped maintain consistency within the categorical data.
+
+ADR Outlier Detection
+---------------------
+Outlier detection was performed on the ADR (Average Daily Rate) column to identify abnormal pricing values. Visual analysis techniques were used to detect extreme ADR values that significantly differed from the normal hotel pricing range. Detecting outliers was important because abnormal values can negatively impact data analysis and machine learning performance.
+
 Weeky Progress of Person-2
 ===========================
 Week-1
